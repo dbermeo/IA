@@ -1,0 +1,2 @@
+# IA
+perceptrón/ADALINE..etc
